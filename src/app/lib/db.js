@@ -1,0 +1,1 @@
+export const connectionStr="mongodb+srv://ahmedullahfarooqi34:Karachi123@cluster0.qp3oqxq.mongodb.net/restaurantDatabase?retryWrites=true&w=majority&appName=Cluster0"
